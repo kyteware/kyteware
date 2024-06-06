@@ -8,9 +8,8 @@
 
 ## Big Goals
 I have a few far-reaching goals that I'd like to achieve some day, namely:
-- [ ] A GPU-accelerated video!
- editor capable of running natively or on the web with WGPU
-- [ ] A VR desktop that fully takes advantage of Wayland's unique capabilities
+- [ ] A GPU-accelerated video editor capable of running natively or on the web
+- [ ] A VR desktop that fully supports windows meant for desktop
 - [ ] A programming language complete with a fully functional, from-scratch compiler
 
 <img src="https://github.com/kyteware/kyteware/assets/88643996/ada0f1a9-9508-49e4-a595-04ae07e81b45" alt="northern lights from 2024" width="400"/>
