@@ -9,8 +9,12 @@
 <img src="https://github.com/kyteware/kyteware/assets/88643996/ada0f1a9-9508-49e4-a595-04ae07e81b45" alt="northern lights from 2024" width="300"/>
 
 ## Big Goals
-I have a few far-reaching goals that I'd like to achieve some day, namely:
+I have a few far-reaching goals that I'd like to achieve some day with projects I'm planning to take on to prepare myself:
 - [ ] A GPU-accelerated video editor capable of running natively or on the web
+ - [x] A GPU-powered video editor
+ - [ ] A GPU-compute static CLI video editor
+ - [ ] An image editor
 - [ ] A VR desktop that fully supports windows meant for desktop
+ - [ ] A Wayland compositor with Smithay that warps windows
 - [ ] A programming language complete with a fully functional, from-scratch compiler
 
