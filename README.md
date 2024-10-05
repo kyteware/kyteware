@@ -11,10 +11,10 @@
 ## Big Goals
 I have a few far-reaching goals that I'd like to achieve some day with projects I'm planning to take on to prepare myself:
 - [ ] A GPU-accelerated video editor capable of running natively or on the web
- - [x] A GPU-powered video editor
- - [ ] A GPU-compute static CLI video editor
- - [ ] An image editor
+  - [x] A GPU-powered video editor
+  - [ ] A GPU-compute static CLI video editor
+  - [ ] An image editor
 - [ ] A VR desktop that fully supports windows meant for desktop
- - [ ] A Wayland compositor with Smithay that warps windows
+  - [ ] A Wayland compositor with Smithay that warps windows
 - [ ] A programming language complete with a fully functional, from-scratch compiler
 
