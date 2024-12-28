@@ -11,7 +11,7 @@
 ## Big Goals
 I have a few far-reaching goals that I'd like to achieve some day with projects I'm planning to take on to prepare myself:
 - [ ] A GPU-accelerated video editor capable of running natively or on the web
-  - [x] A GPU-powered video editor
+  - [x] A GPU-powered video player
   - [ ] A GPU-compute static CLI video editor
   - [ ] An image editor
 - [ ] A VR desktop that fully supports windows meant for desktop
